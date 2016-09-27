@@ -1,0 +1,12 @@
+<appconfig>
+<category>local</category>
+<appname>Swatches</appname>
+<recevier_id>Swatches</recevier_id>
+<vxp num = '1'>
+	<vxpname platform = 'install'>Swatches.vxp</vxpname>
+</vxp>
+<package>mre.vxp.Smithjones.Swatches</package>
+<iconname>Swatches</iconname>
+<download_url>null</download_url>
+<version>00001</version>
+</appconfig>
